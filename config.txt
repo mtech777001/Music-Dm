@@ -1,0 +1,6 @@
+token=NTk5NDQzNjc2MjE2OTUwODA0.XmF0Rw.wL_q6bteQzh1nxxgzYj7bupyOeU
+owner=336374035141230592
+prefix=.
+game=dm music| .play
+stayinchannel=true
+songinstatus=false
